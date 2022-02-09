@@ -1,3 +1,16 @@
 .custom{
     cursor: url("../images/cursor.png")
 }
+.logoformatting{
+    margin-Left: 1000px;
+    margin-top: -210px;
+}
+.textformatting{
+    color:white;
+}
+.headerformatting{
+    color:white;
+    font-size: 100px;
+    margin-left: 10px;
+    margin-top: -40px;
+}
