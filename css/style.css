@@ -7,10 +7,23 @@
 }
 .textformatting{
     color:white;
+    font-family: "Lucida Console";
+    font-size: 45px;
 }
 .headerformatting{
     color:white;
     font-size: 100px;
     margin-left: 10px;
     margin-top: -40px;
+    font-family: "lucida Console";
+}
+.altheaderformatting{
+    color:white;
+    font-size: 60px;
+}
+.nestledheaderformatting{
+    margin-left: 112;
+    margin-top: -80px;
+    color: white;
+    font-size: 71px;
 }
