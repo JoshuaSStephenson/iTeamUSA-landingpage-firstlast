@@ -1,5 +1,5 @@
 .custom{
-    cursor: url("../images/cursor.png")
+    cursor:url("../images/cursor.png"), auto;
 }
 .logoformatting{
     margin-Left: 1000px;
@@ -23,7 +23,11 @@
 }
 .nestledheaderformatting{
     margin-left: 112;
-    margin-top: -80px;
+    margin-top: -70px;
     color: white;
-    font-size: 71px;
+    font-size: 69px;
+    font-family: "lucida Console";
+}
+.navbuttonformat{
+    width: auto;
 }
